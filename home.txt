@@ -1,2 +1,2 @@
 Essa é uma linha de texto 
-salvando esta mudança na branch "nova-branch"
+Linha escrita na outra branch
