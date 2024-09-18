@@ -2,3 +2,4 @@ Essa é uma linha de texto
 linha escrita na main
 Linha escrita na outra branch
 type nul > "nome_do_arquivo.etc" adiciona um arquivo
+Linha escrita no repositório local
